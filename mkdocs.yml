@@ -13,7 +13,7 @@ copyright: "Copyright &copy; Lappis-UnB"
 
 # Theme settings
 theme:
-  name: rtd-dropdown
+  name: readthedocs
   collapse_by_default: false
   highlightjs: true
   logo: 'assets/images/SIGE_Logo.png'
@@ -45,24 +45,3 @@ markdown_extensions:
       linenums: true
   - footnotes
   - meta
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tabbed
-  - pymdownx.tilde
-
-extra_javascript:
-  - javascripts/config.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
