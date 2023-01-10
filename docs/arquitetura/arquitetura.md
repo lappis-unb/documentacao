@@ -1,4 +1,26 @@
-# Web
+# Arquitetura
+
+O sistema foi definido como um serviço Web, podendo assim ser acessado via navegadores independente de sistema operacional. 
+
+A arquitetura geral adotada é composta por uma camada de interface gráfica Web (frontend), implementada em tecnologia React JS (https://reactjs.org) utilizando o framework Next.js (https://nextjs.org/), e uma camada de servidor (backend) baseada no framework Django REST (https://www.django-rest-framework.org). Nesta arquitetura, o armazenamento permanente de dados é implementado a partir de um banco de dados Postgres (https://www.postgresql.org) abstraído a partir de um conector do framework Django.
+
+A comunicação entre as camadas do frontend e backend é implementada através de uma API no padrão REST. Já a comunicação do backend com o banco de dados é realizada através de um conector próprio incorporado ao framework Django REST. 
+
+![Arquitetura](../assets/images/Arquitetura_Geral.png)
+
+## API (Backend)
+
+A implementação da API (Backend) do sistema utiliza o framework Django REST com os seguintes módulos:
+- **Requisições HTTP**: são capturadas e reconhecidas pelo módulo de **Padrão de URL** (URL  Patterns) e encaminhada para a camada de **Visualziação** (Views).
+- O módulo de **Visualização** (Views) por sua vez pricessa as requisições HTTP e retorna Respostas HTTP a partir do módulo de **Serialização** (Serializer).
+- O módulo de **Serialização** (*Serializer*) serializa e deserializa os Objetos de Modelo de Dados (Data Model Objects).
+- Os **Objetos de Modelo de Dados (Models)** descrevem os atributos dos objetos de dados que persistem no sistema e implementam os comportamentos padrão de CRUD junto ao banco de dados.
+
+A figura a seguir detalha os fluxos do backend.
+
+![Arquitetura API](../assets/images/Arquitetura_Backend.png)
+
+## Web (Frontend)
 
 A arquitetura do frontend utiliza o framework Next.js para React junto à biblioteca Redux. Neste caso, temos os seguintes componentes principais:
 

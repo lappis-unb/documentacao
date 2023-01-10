@@ -25,8 +25,7 @@ nav:
   - MEC-Energia: index.md
   - Arquitetura:
     - Introdução: "arquitetura/introducao.md"
-    - API: "arquitetura/api.md"
-    - WEB: "arquitetura/web.md"
+    - Arquitetura: "arquitetura/arquitetura.md"
   - Repositórios: repositorios.md
   - Manual:
     - Usuário Operacional Universidade: "manual/operacional_universidade.md"
