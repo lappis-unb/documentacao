@@ -18,11 +18,7 @@ A seguir a tabela contendo os Casos de Uso do sistema já classificados de acord
 | 4.2      | **_Visualizar_ usuários** Técnicos da própria universidade a qual está vinculado                                       |
 | 4.3      | **_Atualizar_ usuários** Técnicos da própria universidade a qual está vinculado                                        |
 | 4.4      | **_Remover_ usuários** Técnicos da própria universidade a qual está vinculado                                          |
-| 5.1      | **_Visualizar_** todas as **Unidades Consumidoras** de uma Universidade                                                | **Administrador da Universidade**
-
-e
-
-**Técnico da Universidade** |
+| 5.1      | **_Visualizar_** todas as **Unidades Consumidoras** de uma Universidade                                                | **Administrador da Universidade** e **Técnico da Universidade** |
 | 5.2      | **_Criar_ Unidade Consumidora** da universidade a qual está vinculado                                                  |
 | 5.3      | **_Visualizar_ Unidade Consumidora** da universidade a qual está vinculado                                             |
 | 5.4      | **_Atualizar_ Unidade Consumidora** da universidade a qual está vinculado                                              |

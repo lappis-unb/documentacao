@@ -26,6 +26,7 @@ nav:
   - Arquitetura:
     - Introdução: "arquitetura/introducao.md"
     - Arquitetura: "arquitetura/arquitetura.md"
+    - Casos de Uso: "arquitetura/casos_de_uso.md"
   - Repositórios: repositorios.md
   - Manual:
     - Usuário Operacional Universidade: "manual/operacional_universidade.md"
