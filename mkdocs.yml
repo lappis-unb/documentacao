@@ -16,8 +16,8 @@ theme:
   name: readthedocs
   collapse_by_default: false
   highlightjs: true
-  logo: 'assets/images/SIGE_Logo.png'
-  favicon: 'assets/images/SIGE_Logo.png'
+  logo: 'assets/images/MEC_Energia_Logo.png'
+  favicon: 'assets/images/MEC_Energia_Logo.png'
   language: "pt_BR"
 
 # Content Menu
@@ -29,7 +29,7 @@ nav:
     - Casos de Uso: "arquitetura/casos_de_uso.md"
   - Repositórios: repositorios.md
   - Manual:
-    - Usuário Operacional Universidade: "manual/operacional_universidade.md"
+    - Usuário Operacional da Universidade: "manual/operacional_universidade.md"
     - Usuário Administrador da Universidade: "manual/admin_universidade.md"
     - Usuário Administrador do Sistema: "manual/sys_admin.md"
 
