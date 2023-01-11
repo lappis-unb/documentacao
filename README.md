@@ -20,5 +20,5 @@ Projeto em parceria com o CGEE - Centro de Gestão e Estudos Estratégicos e a U
 | Bruno Alves Felix     |                                | @Bruno-Felix        |
 | Estevão de Jesus Reis |                                | @estevaoreis        |
 | Irwin Schmitt         |                                | @irwinschmitt       |
-| Rodrigo Maia          |     contato@rodmaia.com.br     | @rodmaia            |
+| Rodrigo Maia          |     rodrigo@rodmaia.com        | @rodmaia            |
 | Yudi Yamane           |                                | @yudi-azvd          |
