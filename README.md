@@ -17,7 +17,7 @@ Projeto em parceria com o CGEE - Centro de Gestão e Estudos Estratégicos e a U
 
 |        Membro         |             E-mail             |       GitLab        |
 | :------------------:  | :----------------------------: | :-----------------: |
-| Bruno Alves Felix     |                                | @Bruno-Felix        |
+| Bruno Alves Félix     |      balvesfelix@gmail.com     | @Bruno-Felix        |
 | Estevão de Jesus Reis |                                | @estevaoreis        |
 | Irwin Schmitt         |                                | @irwinschmitt       |
 | Rodrigo Maia          |     rodrigo@rodmaia.com        | @rodmaia            |
