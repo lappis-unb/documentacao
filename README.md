@@ -4,7 +4,7 @@ Este repositório contém a documentação do projeto do Sistema MEC-Energia.
 
 Projeto em parceria com o CGEE - Centro de Gestão e Estudos Estratégicos e a Universidade de Brasília (UnB), desenvolvido no Laboratório Lappis - Laboratório Avançado de Produção Pesquisa e Inovação em Software .
 
-[Documentação Online](https://lappis-unb.gitlab.io/projects/mec-energia/documentacao)
+[Documentação Online](https://lappis-unb.gitlab.io/projetos-energia/mec-energia/documentacao/)
 
 ### Coordenação do Projeto
 
