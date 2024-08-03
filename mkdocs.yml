@@ -35,7 +35,7 @@ nav:
 
 # Style
 extra_css:
-  - assets/style/extra.css
+  - assets/style/custom.css
 
 # Markdown extensions
 markdown_extensions:
