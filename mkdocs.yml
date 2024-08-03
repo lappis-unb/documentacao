@@ -20,19 +20,6 @@ theme:
   favicon: 'assets/images/logo_mepa_cor.svg'
   language: "pt_BR"
 
-# theme:
-#   name: 'material'
-#   palette:
-#     primary: 'indigo'
-#     accent: 'indigo'
-#   font:
-#     text: 'Roboto'
-#     code: 'Roboto Mono'
-#   highlightjs: true
-#   logo: 'assets/images/logo_mepa_nome.svg'
-#   favicon: 'assets/images/logo_mepa_cor.svg'
-
-
 # Content Menu
 nav:
   - MEC-Energia: index.md
