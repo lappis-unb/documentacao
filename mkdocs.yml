@@ -34,8 +34,8 @@ nav:
     - Usuário Administrador do Sistema: "manual/sys_admin.md"
 
 # Style
-# extra_css:
-#   - assets/style/extra.css
+extra_css:
+  - assets/style/extra.css
 
 # Markdown extensions
 markdown_extensions:
